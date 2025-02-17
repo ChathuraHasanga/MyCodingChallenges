@@ -17,7 +17,7 @@ Edit
  ┃ ┗ 📄 style.css    # Stylesheet for the page  
  ┣ 📂 images/        # Stores images used in the project  
  ┗ 📄 index.html     # Main HTML file  
-📸 Preview
+
 
 📖 How to Use
 Clone this repository:
@@ -26,4 +26,5 @@ Copy
 Edit
 git clone https://github.com/your-username/landing-page.git
 Open index.html in a browser.
-🌐 Live Demo
+
+![image](https://github.com/user-attachments/assets/5b2c4162-ccc9-4030-a54f-9b44046ceed5)
