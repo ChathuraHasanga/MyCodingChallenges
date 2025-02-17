@@ -26,5 +26,6 @@ Copy
 Edit
 git clone https://github.com/your-username/landing-page.git
 Open index.html in a browser.
+live demo:  https://chathurahasanga.github.io/MyCodingChallenges/index.html
 
 ![image](https://github.com/user-attachments/assets/5b2c4162-ccc9-4030-a54f-9b44046ceed5)
