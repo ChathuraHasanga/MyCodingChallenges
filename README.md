@@ -63,11 +63,6 @@ Clone the repository:
 git clone https://github.com/your-username/contact-form.git
 Open the index.html file in your browser.
 
-💡 Future Improvements
-🔹 Add JavaScript validation for form inputs
-🔹 Implement a backend (PHP, Node.js, or Firebase) to process submissions
-🔹 Improve animations and transitions for better user experience
-
 🛠️ Built With
 HTML5
 
