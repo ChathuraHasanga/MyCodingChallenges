@@ -132,3 +132,52 @@ Open index.html in your browser.
 This project is open-source and free to use.
 
 📢 Feel free to contribute and improve the project!
+
+
+Day 4: Pricing Table (CSS Flexbox or Grid) Challenge
+🚀 Challenge Overview
+Create a modern, responsive Pricing Table using CSS Flexbox or Grid. This helps to improve my layout skills and enhance my understanding of responsive web design.
+
+🎯 Goals
+Design a clean and structured pricing table
+
+Use Flexbox or CSS Grid for layout
+
+Ensure responsiveness across devices
+
+Implement hover effects and buttons
+
+📌 What You'll Learn
+CSS Flexbox vs. Grid for layout
+
+Creating visually appealing pricing tables
+
+Improving responsiveness with media queries
+
+Styling buttons, typography, and colors
+
+🛠️ Tools & Technologies
+HTML5
+CSS3 (Flexbox/Grid)
+
+📜 Instructions
+Set up the HTML structure for the pricing table.
+
+Use Flexbox or Grid to create a well-aligned layout.
+
+Style the design with colors, borders, and shadows.
+
+Make it responsive using media queries.
+
+Enhance interactivity with hover effects.
+
+📷 Screenshots 
+![image](https://github.com/user-attachments/assets/760eafdb-ac9a-4524-a522-713a39821f6b)
+
+🚀 How to Run
+Clone the repository:
+
+git clone https://github.com/yourusername/pricing-table-challenge.git
+Open index.html in your browser.
+
+#CSS #Flexbox #Grid #FrontendChallenge
