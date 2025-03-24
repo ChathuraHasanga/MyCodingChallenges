@@ -218,7 +218,4 @@ Navigate to the project directory:
 cd blog-card-ui
 Open index.html in your browser.
 
-📜 License
-This project is free to use and open source.
-
 ⭐ If you like this project, consider giving it a star on GitHub!
