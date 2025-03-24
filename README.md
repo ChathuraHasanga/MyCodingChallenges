@@ -174,6 +174,9 @@ Enhance interactivity with hover effects.
 📷 Screenshots 
 ![image](https://github.com/user-attachments/assets/760eafdb-ac9a-4524-a522-713a39821f6b)
 
+Demo:
+https://chathurahasanga.w3spaces.com/Day4/index4.html
+
 🚀 How to Run
 Clone the repository:
 
@@ -181,3 +184,41 @@ git clone https://github.com/yourusername/pricing-table-challenge.git
 Open index.html in your browser.
 
 #CSS #Flexbox #Grid #FrontendChallenge
+
+✅ Day 5: Blog Card UI (Title, Image, Description)
+A sleek and responsive Blog Card UI that showcases blog posts with hover effects. When hovered, hidden content slides up smoothly, displaying more details about the blog post.
+
+🚀 Features
+Beautiful Card Design: Modern UI with smooth animations.
+
+Hover Effects: Hidden content slides up on hover and disappears when the cursor leaves.
+
+Responsive Layout: Works seamlessly across devices.
+
+Animated Scaling: Image enlarges on hover for a dynamic effect.
+
+Interactive Buttons: "Read Article" button for better user engagement.
+
+📸 Preview
+![image](https://github.com/user-attachments/assets/14322335-5b59-43af-9ee8-6c41d3f4e71a)
+
+Demo:
+https://chathurahasanga.w3spaces.com/Day5/index5.html
+
+🛠 Technologies Used
+HTML for structure
+
+CSS for styling and animations
+
+Font Awesome for icons
+
+🏗 How to Use
+Clone this repository:
+
+git clone https://github.com/yourusername/blog-card-ui.git
+Navigate to the project directory:
+
+cd blog-card-ui
+Open index.html in your browser.
+
+⭐ If you like this project, consider giving it a star on GitHub!
