@@ -236,8 +236,8 @@ This project demonstrates a testimonial slider with a background video using HTM
 
 ## Demo
 
-![Demo](![image](https://github.com/user-attachments/assets/8697690e-7418-428b-80a4-e863cac5271c)
-)
+Preview
+![image](https://github.com/user-attachments/assets/9bf5aad4-d037-4240-be0d-a9752f075aec)
 
 ## Installation
 
