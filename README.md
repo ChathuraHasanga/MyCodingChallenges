@@ -222,3 +222,26 @@ cd blog-card-ui
 Open index.html in your browser.
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
+✅ Day 6: Testimonial Slider
+# Testimonial Slider with Background Video
+
+This project demonstrates a testimonial slider with a background video using HTML, CSS, and JavaScript.
+
+## Features
+
+- Autoplaying and muted YouTube video as the background
+- Testimonial slider with navigation arrows
+- Responsive design
+
+## Demo
+
+![Demo](![image](https://github.com/user-attachments/assets/8697690e-7418-428b-80a4-e863cac5271c)
+)
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/testimonial-slider.git
