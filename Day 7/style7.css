@@ -1,0 +1,158 @@
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container, .container2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.content1{
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.content2{
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.content3{
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.cont1, .cont2, .cont3{
+    margin-left: 10px;
+    color: white;
+}
+
+.fullcont1, .fullcont2, .fullcont3, .fullcont4, .fullcont5, .fullcont6{
+    display: flex;
+    align-items: center;
+}
+
+#target{
+    opacity: 0.5;
+}
+
+i{
+    font-size: 30px;
+    margin-right: 10px;
+    width: 30px;
+    color: orange;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.fullcont4 p{
+    text-transform: uppercase;
+}
+
+.fullcont5 p, .fullcont6 p{
+    font-size: 20px;
+}
+
+ul a{
+    text-decoration: none;
+    color: white;
+    opacity: 0.5;
+}
+
+.mainlinks{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -50px;
+}
+
+#line1, #line2{
+    color: orange;
+    font-weight: bold;
+}
+
+#paraone, #paratwo{
+    opacity: 0.5;
+}
+
+.cont3 input{
+    opacity: 0.5;
+    background-color: black;
+    border: none;
+    padding: 10px;    
+}
+
+.cont3 button{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.sentbox{
+    display: flex;
+}
+
+.sentbox input{
+    color: white;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(72, 72, 72);
+    margin-bottom: -20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#last1{
+    color: orange;
+}
+
+.foot2 li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+.foot2{
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .container, .container2, .container3{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .content1, .content2, .content3{
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .sentbox{
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .sentbox input[type="email"], .sentbox button{
+        width: 80%;
+        border-radius: 5px;
+        margin: 5px 0;
+    }
+}
