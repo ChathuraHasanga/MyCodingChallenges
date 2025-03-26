@@ -245,3 +245,24 @@ Preview
 
 ```bash
 git clone https://github.com/your-username/testimonial-slider.git
+
+# Day 7: Responsive Footer with Font Awesome Icons
+
+This project demonstrates a responsive footer with Font Awesome icons, useful links, and a subscription form.
+
+## Features
+
+- Responsive design
+- Font Awesome icons
+- Useful links section
+- Subscription form
+
+## Demo
+![image](https://github.com/user-attachments/assets/b1383584-71d4-4695-a833-830c0f350137)
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/day7-footer.git
