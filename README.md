@@ -258,8 +258,8 @@ This project demonstrates a responsive footer with Font Awesome icons, useful li
 - Useful links section
 - Subscription form
 
-## Demo
-(https://github.com/user-attachments/assets/b1383584-71d4-4695-a833-830c0f350137)
+## Preview
+![image](https://github.com/user-attachments/assets/2198ae5e-17a2-40d0-80b3-000262e0ee12)
 
 ## Installation
 
