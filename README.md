@@ -245,10 +245,7 @@ Preview
 
 ```bash
 git clone https://github.com/your-username/testimonial-slider.git
-
-
-
-
+```
 
 ✅ Day 7: Footer with Social Media Icons
 
