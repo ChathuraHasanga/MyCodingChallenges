@@ -269,7 +269,7 @@ This project demonstrates a responsive footer with Font Awesome icons, useful li
 git clone https://github.com/your-username/day7-footer.git
 ```
 
-# Day 8: FAQ Accordion with Toggle Effect
+# ✅ Day 8: FAQ Section (Expandable with CSS)
 
 This project demonstrates a responsive FAQ accordion with toggle functionality. Clicking on a question reveals the answer and toggles the arrow icon between up and down.
 
