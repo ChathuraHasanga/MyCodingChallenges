@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    background-color: #f1f1f1;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.main-container span{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.main-container p{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #f1f1f1;
+}
+
+.main-container p:hover, h3:hover{
+    color: orange;
+}
+
+.main-container{
+    padding-top: 10px;
+}
+
+.full-contain{
+    margin: 20px;
+}
+
+.contain1, .contain2, .contain3, .contain4, .contain5, .contain6{
+    text-align: left;
+}
+
+.contain1 h3, .contain2 h3, .contain3 h3, .contain4 h3, .contain5 h3, .contain6 h3{
+    cursor: pointer;
+}
+
+.contain1 p, .contain2 p, .contain3 p, .contain4 p, .contain5 p, .contain6 p{
+    overflow: hidden;
+}
+
+.arrows{
+float: right;
+cursor: pointer;
+}
+
+.full-contain p{
+    display: none;
+    margin: 10px 0;
+}
+
+.full-contain .active p {
+    display: block;
+}
+
+.full-contain .active .arrows i{
+    transform: rotate(180deg);
+    transition: transform 0.3s ease;
+}
+
+h3{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+p{
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 768px){
+    .container{
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+}
