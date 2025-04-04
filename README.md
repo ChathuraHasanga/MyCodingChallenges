@@ -290,3 +290,18 @@ This project demonstrates a responsive FAQ accordion with toggle functionality. 
 ```bash
 git clone https://github.com/your-username/day8-faq-accordion.git
 ```
+
+✅ Day 9: Simple Portfolio Page
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experience in web development. Feel free to explore and reach out! 🎉
+
+## 🌐 Demo
+![image](https://github.com/user-attachments/assets/ae19204c-acad-4994-99e6-ca1bed376bd0)
+
+
+## 📌 Features
+- Responsive Design 📱💻
+- Contact Form 📩
+
+## 🛠️ Tech Stack
+- HTML5 & CSS3 🎨
+- Boostrap 🛠️
