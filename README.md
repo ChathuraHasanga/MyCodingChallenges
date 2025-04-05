@@ -305,3 +305,17 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 🛠️ Tech Stack
 - HTML5 & CSS3 🎨
 - Boostrap 🛠️
+
+
+# Day 10: Personal Bio Website
+
+This is a personal portfolio website designed to showcase the skills, projects, and contact information of **Chathura Hasanga**, a software engineering undergraduate. The website is built using HTML, CSS with additional libraries like Font Awesome and Boxicons for icons.
+
+## Features
+- **About Section**: Provides an introduction and highlights skills.
+- **Projects Section**: Displays detailed descriptions of projects with hover effects.
+- **Contact Section**: Includes a contact form for visitors to reach out.
+- **Footer**: Displays copyright information and a thank-you message.
+
+## Demo
+![image](https://github.com/user-attachments/assets/b8cbf497-bacd-4496-933c-3eaac86fb83f)
