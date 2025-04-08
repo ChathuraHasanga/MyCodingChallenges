@@ -319,3 +319,14 @@ This is a personal portfolio website designed to showcase the skills, projects, 
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/b8cbf497-bacd-4496-933c-3eaac86fb83f)
+
+# Day 11: Form Validation with JavaScript
+This project demonstrates a simple form validation using JavaScript. The form includes fields for first name, last name, username, email, password, phone number, and date of birth. Validation is performed on each field to ensure proper input before submission.
+
+## Features
+- **Real-Time Validation**: Displays error messages for invalid inputs.
+- **Custom Error Messages**: Provides user-friendly feedback for each field.
+- **Animations**: Includes subtle animations for the form header.
+
+## Demo
+![image](https://github.com/user-attachments/assets/6f1ba06a-b2d3-4443-a06e-5f21d4630c33)
