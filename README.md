@@ -330,3 +330,20 @@ This project demonstrates a simple form validation using JavaScript. The form in
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/6f1ba06a-b2d3-4443-a06e-5f21d4630c33)
+
+# Day 12: Lightbox Image Gallery
+
+This project demonstrates a responsive image gallery with a lightbox effect. Users can click on images to view them in a modal with navigation controls to move between images.
+
+## Features
+
+- **Responsive Design**: The gallery adjusts to different screen sizes.
+- **Lightbox Effect**: Clicking on an image opens it in a modal with a larger view.
+- **Navigation Controls**: Includes "Next" and "Previous" buttons to navigate through images.
+- **Thumbnails**: Displays clickable thumbnails for quick navigation.
+- **Caption Support**: Shows captions for each image in the lightbox.
+
+## Demo
+![image](https://github.com/user-attachments/assets/5c5f1c31-0470-40de-921a-8f8ab981baee)
+
+![image](https://github.com/user-attachments/assets/1d2e34ab-cdc5-4cdd-8b85-4f8f49fda913)
