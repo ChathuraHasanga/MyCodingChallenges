@@ -1,0 +1,106 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 700px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    min-height: 600px;
+    height: fit-content;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: linear-gradient(#F00000, #DC281E);
+    font-family: sans-serif;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #73E831;
+}
+
+ul{
+    list-style: none;
+}
+
+h1{
+    color: #4325ec;
+    font-size: 3rem;
+}
+
+.container-main{
+    margin: 40px 0px;
+}
+
+#taskInput{
+    width: 250px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+#addTaskButton{
+    background-color: #0000ff;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 1.2rem;
+}
+
+#taskList{
+    min-width: 350px;
+}
+
+.item{
+    background-color: #fff;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+.item:first-child{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.item:last-child{
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.checkbox{
+    margin-right: 10px;
+}
+
+.deleteButton{
+    float: right;
+    background-color: #dc143c;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    padding: 2px 5px;
+    margin-left: 10px;
+    font-size: 1.1rem;
+    font-weight: 550;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+.counter{
+    padding: 5px;
+}
