@@ -347,3 +347,19 @@ This project demonstrates a responsive image gallery with a lightbox effect. Use
 ![image](https://github.com/user-attachments/assets/5c5f1c31-0470-40de-921a-8f8ab981baee)
 
 ![image](https://github.com/user-attachments/assets/1d2e34ab-cdc5-4cdd-8b85-4f8f49fda913)
+
+# Day 13: To-Do List with Local Storage
+
+This project is a simple **To-Do List** application that allows users to add, mark as completed, and delete tasks. The application uses **Local Storage** to persist tasks even after the page is refreshed.
+
+## Features
+
+- **Add Tasks**: Users can add new tasks to the list.
+- **Mark as Completed**: Users can mark tasks as completed using checkboxes.
+- **Delete Tasks**: Users can delete tasks from the list.
+- **Task Counter**: Displays the total number of tasks and the number of completed tasks.
+- **Local Storage**: Tasks are saved in the browser's local storage, so they persist across page reloads.
+
+## Demo
+![image](https://github.com/user-attachments/assets/87b7f0b4-1bbe-4ca8-a326-754264faadba)
+
