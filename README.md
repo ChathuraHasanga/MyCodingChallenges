@@ -363,3 +363,16 @@ This project is a simple **To-Do List** application that allows users to add, ma
 ## Demo
 ![image](https://github.com/user-attachments/assets/87b7f0b4-1bbe-4ca8-a326-754264faadba)
 
+# Day 14: JS Calculator
+
+A simple calculator web app built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and provides a clean, responsive interface.
+
+## Features
+
+- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Responsive and clean UI
+- Clear display functionality
+
+## Demo
+
+![image](https://github.com/user-attachments/assets/38bc69a2-cbd5-4e37-bae1-9efb98e3efeb)
