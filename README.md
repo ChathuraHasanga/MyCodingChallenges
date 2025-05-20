@@ -376,3 +376,18 @@ A simple calculator web app built with HTML, CSS, and JavaScript. This calculato
 ## Demo
 
 ![image](https://github.com/user-attachments/assets/38bc69a2-cbd5-4e37-bae1-9efb98e3efeb)
+
+# Day 15: Weather App
+
+A simple weather application that allows users to search for the current weather in any city using the OpenWeatherMap API. The app displays the city name, temperature, and weather description with a visually appealing background.
+
+## Features
+
+- Search weather by city name
+- Displays city, temperature (°C), and weather description
+- Responsive and clean UI
+
+## Demo
+
+![image](https://github.com/user-attachments/assets/434bd8f1-c6f3-46e4-966c-aee9db4fbb9b)
+
