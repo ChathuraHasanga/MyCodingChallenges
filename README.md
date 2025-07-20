@@ -391,3 +391,19 @@ A simple weather application that allows users to search for the current weather
 
 ![image](https://github.com/user-attachments/assets/434bd8f1-c6f3-46e4-966c-aee9db4fbb9b)
 
+# Day 16: Simple Login Page
+
+A basic login page built with HTML, CSS, and JavaScript. This project demonstrates a simple user authentication interface with username and password validation.
+
+## Features
+
+- Clean and responsive login form
+- Username and password input fields
+- Login button with hover effects
+- Basic form validation
+- Styled with CSS for a professional appearance
+
+## Demo
+
+<img width="802" height="776" alt="image" src="https://github.com/user-attachments/assets/f432b27f-2269-4ffb-9576-10441ae7f851" />
+
