@@ -407,3 +407,24 @@ A basic login page built with HTML, CSS, and JavaScript. This project demonstrat
 
 <img width="802" height="776" alt="image" src="https://github.com/user-attachments/assets/f432b27f-2269-4ffb-9576-10441ae7f851" />
 
+# Day 17: User Registration Form with JavaScript Validation
+
+A comprehensive registration form with client-side validation using JavaScript. This project demonstrates various form input types and validation techniques for user registration.
+
+## Features
+
+- **User ID Validation**: Checks for proper user ID format
+- **Password Validation**: Ensures password meets security requirements
+- **Email Validation**: Validates email format using regex
+- **Required Field Validation**: Ensures all mandatory fields are filled
+- **Country Selection**: Dropdown menu for country selection
+- **Gender Selection**: Radio buttons for gender input
+- **Language Preferences**: Checkbox options for language selection
+- **ZIP Code Validation**: Validates postal code format
+- **Textarea Support**: Multi-line text input for user description
+
+## Demo
+
+<img width="667" height="633" alt="image" src="https://github.com/user-attachments/assets/aee8d28a-89ff-4ed5-881f-930a4abaef81" />
+ 
+
