@@ -471,5 +471,5 @@ A secure and responsive contact form built with PHP, featuring form validation, 
 - **Alert Components**: Styled success and error message displays
 - **Accessibility**: Proper labeling and hidden honeypot field
 
-##Demo
+## Demo
 <img width="627" height="863" alt="image" src="https://github.com/user-attachments/assets/c70202f9-b3b6-456c-990e-302d3d15d37e" />
