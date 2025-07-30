@@ -427,4 +427,49 @@ A comprehensive registration form with client-side validation using JavaScript. 
 
 <img width="667" height="633" alt="image" src="https://github.com/user-attachments/assets/aee8d28a-89ff-4ed5-881f-930a4abaef81" />
  
+# Day 18: Contact Form with PHP Backend (Form Submission)
 
+A secure and responsive contact form built with PHP, featuring form validation, spam protection, and email functionality.
+
+## 🚀 Features
+
+- **Responsive Design**: Mobile-friendly contact form with modern CSS styling
+- **Form Validation**: Server-side validation for all input fields
+- **Spam Protection**: Honeypot field to prevent automated spam submissions
+- **Email Functionality**: Sends emails using PHP's built-in mail function
+- **Error Handling**: Comprehensive error messages and user feedback
+- **Session Management**: Proper handling of form data and error states
+
+## 📋 Form Fields
+
+- **Name**: Required field for sender's full name
+- **Email**: Required field with email format validation
+- **Subject**: Required field for email subject
+- **Message**: Required field for the main message content
+- **Honeypot**: Hidden field for spam protection (invisible to users)
+
+## 🛡️ Security Features
+
+### Form Validation
+- Server-side validation for all required fields
+- Input sanitization with `htmlspecialchars()` and `trim()`
+
+### Spam Protection
+- Honeypot field that bots typically fill out
+- Returns 405 Method Not Allowed for suspicious submissions
+
+### Security Headers
+- Proper email headers to prevent header injection
+- CSRF protection through form submission handling
+
+## 🎨 Styling Features
+
+- **CSS Custom Properties**: Theme-aware color variables
+- **Responsive Layout**: Flexbox-based centering and layout
+- **Modern Typography**: System font stack for optimal readability
+- **Form Styling**: Consistent input styling with focus states
+- **Alert Components**: Styled success and error message displays
+- **Accessibility**: Proper labeling and hidden honeypot field
+
+##Demo
+<img width="627" height="863" alt="image" src="https://github.com/user-attachments/assets/c70202f9-b3b6-456c-990e-302d3d15d37e" />
