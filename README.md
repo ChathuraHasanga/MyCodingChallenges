@@ -473,3 +473,21 @@ A secure and responsive contact form built with PHP, featuring form validation, 
 
 ## Demo
 <img width="627" height="863" alt="image" src="https://github.com/user-attachments/assets/c70202f9-b3b6-456c-990e-302d3d15d37e" />
+
+
+# Day 19: Dynamic Blog Page (Read Posts from a JSON file)
+
+A modern, responsive blog application built with React.js that fetches posts from an external API with fallback to mock data. The application features a clean, professional design with hover effects and responsive layout.
+
+## Features
+
+- **Dynamic Content Loading**: Fetches blog posts from JSONPlaceholder API
+- **Fallback System**: Uses mock data when API is unavailable
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Interactive UI**: Hover effects and smooth transitions
+- **Professional Styling**: Clean, modern design with proper typography
+- **Loading States**: Visual feedback during data fetching
+
+## Demo
+<img width="1856" height="933" alt="image" src="https://github.com/user-attachments/assets/d9efb3c3-f25a-43c9-af62-e2df329bdbc9" />
+
