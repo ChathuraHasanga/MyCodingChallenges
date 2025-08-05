@@ -491,3 +491,26 @@ A modern, responsive blog application built with React.js that fetches posts fro
 ## Demo
 <img width="1856" height="933" alt="image" src="https://github.com/user-attachments/assets/d9efb3c3-f25a-43c9-af62-e2df329bdbc9" />
 
+# Day 20 : Resume Builder
+A dynamic web application that allows users to create professional resumes by filling out a simple form. The application generates a formatted resume preview and provides printing functionality.
+
+## Features
+
+- **Interactive Form**: Easy-to-use form with input fields for all resume sections
+- **Print Functionality**: Built-in print feature for physical copies
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
+- **Professional Layout**: Clean, modern resume format
+
+## Sections Included
+
+- **Personal Information**: Name and professional title
+- **Objective**: Career goals and professional summary
+- **Skills**: Technical and soft skills
+- **Academic Details**: Education background
+- **Work Experience**: Professional experience and roles
+- **Projects**: Notable projects and achievements
+- **Achievements**: Awards, certifications, and accomplishments
+- **Contact Information**: Phone, email, and address details
+
+## Demo
+<img width="1917" height="937" alt="image" src="https://github.com/user-attachments/assets/8d3d76aa-71f0-4606-ab77-cf072bfc7681" />
