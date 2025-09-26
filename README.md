@@ -514,3 +514,17 @@ A dynamic web application that allows users to create professional resumes by fi
 
 ## Demo
 <img width="1917" height="937" alt="image" src="https://github.com/user-attachments/assets/8d3d76aa-71f0-4606-ab77-cf072bfc7681" />
+
+# Day 21 : PHP Challenge
+This page demonstrates PHP usage as part of a daily coding challenge series.
+
+## Usage
+
+-**Ensure you have a web server with PHP support (e.g., XAMPP, WAMP, MAMP).**
+-**Place the Day 21 folder in your web server's root directory.**
+-**Open your browser and go to:**
+-**http://localhost/Day%2021/index.php (Adjust the path as needed.)**
+
+## Demo
+<img width="637" height="598" alt="image" src="https://github.com/user-attachments/assets/5d93c42e-0a85-4470-bb77-4340879d99e0" />
+
