@@ -521,9 +521,8 @@ This page demonstrates PHP usage as part of a daily coding challenge series.
 ## Usage
 
 - Ensure you have a web server with PHP support (e.g., XAMPP, WAMP, MAMP).
-- **Place the Day 21 folder in your web server's root directory.**
--**Open your browser and go to:**
--**http://localhost/Day%2021/index.php (Adjust the path as needed.)**
+- Place the Day 21 folder in your web server's root directory.
+- Open your browser and go to: http://localhost/Day%2021/index.php (Adjust the path as needed.)
 
 ## Demo
 <img width="637" height="598" alt="image" src="https://github.com/user-attachments/assets/5d93c42e-0a85-4470-bb77-4340879d99e0" />
